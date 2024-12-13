@@ -1,6 +1,6 @@
 # HR_Data_Analysis_SQL
 
-# ** Queried the database to answer the following business questions**
+** Queried the database to answer the following business questions**
 
 Q1. Average Attrition Rate for All Departments
 
