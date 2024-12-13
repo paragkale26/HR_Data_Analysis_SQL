@@ -2,14 +2,14 @@
 
 # ** Queried the database to answer the following business questions**
 
-# Q1. Average Attrition Rate for All Department
+Q1. Average Attrition Rate for All Departments
 
-# Q2. Average Hourly Rate for Male Research Scientist
+Q2. Average Hourly Rate for Male Research Scientist
 
-# Q3. AttritionRate VS MonthlyIncomeStats against department
+Q3. AttritionRate VS MonthlyIncomeStats against the department
 
-# Q4. Average Working Years for Each Department
+Q4. Average Working Years for Each Department
 
-# Q5. Job Role VS Work Life Balance
+Q5. Job Role VS Work-Life Balance
 
-# Q6. Attrition Rate Vs Year Since Last Promotion Relation Against Job Role
+Q6. Attrition Rate Vs Year Since Last Promotion Relation Against Job Role
